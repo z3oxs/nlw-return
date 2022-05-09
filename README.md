@@ -4,9 +4,9 @@
 
 &nbsp;
 ## 📃 Summary
-[About](#about)
-[Technologies used](#tech)
-[Setup](#setup)
+[About](#about)<br />
+[Technologies used](#tech)<br />
+[Setup](#setup)<br />
 
 &nbsp;
 <a name="about"></a>
